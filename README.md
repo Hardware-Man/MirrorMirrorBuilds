@@ -4,6 +4,8 @@ Latest Build: https://hardware-man.github.io/MirrorMirrorBuilds/Gold/
 
 Demo Video: https://www.youtube.com/watch?v=eCSOZMkbmsQ
 
+Game Source Code: https://github.com/CSCI-526/fall-2024-project-tuesday-meagainsttheworld
+
 | Stages | Links |
 |---|---|
 | Alpha Progress | https://hardware-man.github.io/MirrorMirrorBuilds/AlphaProgress/ |
