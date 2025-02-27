@@ -1,5 +1,9 @@
 # Mirror Mirror Builds
 
+Latest Build: https://hardware-man.github.io/MirrorMirrorBuilds/Gold/
+
+Demo Video: https://www.youtube.com/watch?v=eCSOZMkbmsQ
+
 | Stages | Links |
 |---|---|
 | Alpha Progress | https://hardware-man.github.io/MirrorMirrorBuilds/AlphaProgress/ |
